@@ -21,7 +21,7 @@ A full-stack web application that lets users search for real-time weather data b
 | Caching     | In-memory (Map object) |
 
 
-## 📁 Folder Structure
+## Folder Structure
 
 assignment/ ├─ server/ # Backend (Express) │ ├─ src/ │ │ ├─ routes.js │ │ ├─ weather.js │ │ └─ config.js │ ├─ .env │ └─ package.json ├─ client/ # Frontend (React) │ ├─ src/ │ │ ├─ App.jsx │ │ ├─ api.js │ │ ├─ styles.css │ │ └─ components/ │ │ ├─ SearchBar.jsx │ │ └─ WeatherCard.jsx │ └─ package.json
 
